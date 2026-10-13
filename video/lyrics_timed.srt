@@ -1,0 +1,456 @@
+1
+00:00:03,431 --> 00:00:03,431
+[Intro]
+
+2
+00:00:03,431 --> 00:00:03,431
+[Spoken, deadpan, over a single pulsing synth]
+
+3
+00:00:03,431 --> 00:00:06,782
+Shot four-oh-one-one-seven.
+
+4
+00:00:06,782 --> 00:00:10,133
+Plasma current ramping.
+
+5
+00:00:10,133 --> 00:00:11,729
+Everybody look busy.
+
+6
+00:00:11,729 --> 00:00:11,729
+[Verse 1]
+
+7
+00:00:11,729 --> 00:00:15,080
+Back in fifty-eight they swore that it was nearly done
+
+8
+00:00:15,080 --> 00:00:18,670
+Said we'd have it by the time their kids were twenty-one
+
+9
+00:00:18,670 --> 00:00:22,660
+Now those kids have grandkids, still running the same plan
+
+10
+00:00:22,660 --> 00:00:26,489
+With a plasma like a cat that will escape you if it can
+
+11
+00:00:26,489 --> 00:00:30,239
+So I did the math on a whole career of mine
+
+12
+00:00:30,239 --> 00:00:34,149
+Writing papers for a reactor I won't see come online
+
+13
+00:00:34,149 --> 00:00:34,149
+[Pre-Chorus]
+
+14
+00:00:34,149 --> 00:00:37,979
+Every decade there's a graph going up and to the right
+
+15
+00:00:37,979 --> 00:00:45,798
+Every startup's got a deck that says we're turning on tonight
+
+16
+00:00:45,798 --> 00:00:45,798
+(Series A, Series B, net electricity by twenty-three)
+
+17
+00:00:45,798 --> 00:00:45,798
+[Chorus]
+
+18
+00:00:45,798 --> 00:00:49,707
+It's thirty years away (thirty years away)
+
+19
+00:00:49,707 --> 00:00:52,899
+Every time I check, it's thirty years away
+
+20
+00:00:52,899 --> 00:00:56,649
+We got net gain! (if you don't count the wall plug)
+
+21
+00:00:56,649 --> 00:01:00,080
+We got ignition! (for a billionth of a second)
+
+22
+00:01:00,080 --> 00:01:04,309
+Funding's in the mail and en-ess-tee-ex-you broke again
+
+23
+00:01:04,309 --> 00:01:14,309
+It's thirty years away, and it's thirty years away
+
+24
+00:01:15,798 --> 00:01:15,798
+[Verse 2]
+
+25
+00:01:15,798 --> 00:01:19,548
+Fourteen em-ee-vee neutrons, they don't care about your steel
+
+26
+00:01:19,548 --> 00:01:23,218
+Fifty dee-pee-ay later, does your first wall still feel real
+
+27
+00:01:23,218 --> 00:01:27,128
+The world's whole stash of tritium weighs about as much as my dog
+
+28
+00:01:27,128 --> 00:01:30,957
+And it's half gone in twelve years while we're stuck in the backlog
+
+29
+00:01:30,957 --> 00:01:34,707
+The divertor eats ten megawatts per square meter, give or take
+
+30
+00:01:34,707 --> 00:01:38,617
+That's a rocket nozzle running every hour you're awake
+
+31
+00:01:38,617 --> 00:01:38,617
+[Pre-Chorus]
+
+32
+00:01:38,617 --> 00:01:42,606
+Disruption! Runaway electrons drilling through the tile
+
+33
+00:01:42,606 --> 00:01:50,505
+ELM crash! Fifty times a second, take it with a smile
+
+34
+00:01:50,505 --> 00:01:50,505
+(Breed it, shield it, cool it, heal it, then compete with pee-vee)
+
+35
+00:01:50,505 --> 00:01:50,505
+[Chorus]
+
+36
+00:01:50,505 --> 00:01:54,415
+It's thirty years away (thirty years away)
+
+37
+00:01:54,415 --> 00:01:57,606
+Every time I check, it's thirty years away
+
+38
+00:01:57,606 --> 00:02:01,356
+We got net gain! (if you don't count the wall plug)
+
+39
+00:02:01,356 --> 00:02:04,707
+We got ignition! (for a billionth of a second)
+
+40
+00:02:04,707 --> 00:02:08,378
+Funding's in the mail and the magnet just quenched
+
+41
+00:02:08,378 --> 00:02:17,074
+It's thirty years away, and it's thirty years away
+
+42
+00:02:17,074 --> 00:02:17,074
+[Verse 3]
+
+43
+00:02:17,074 --> 00:02:17,074
+[Faster, half-rapped, tight drums]
+
+44
+00:02:17,074 --> 00:02:20,426
+Got a grant to build a framework that would unify the codes
+
+45
+00:02:20,426 --> 00:02:24,016
+Now there's fifteen of those frameworks and a sixteenth on the road
+
+46
+00:02:24,016 --> 00:02:28,005
+It's got a logo, it's got a website, it's got a workshop every spring
+
+47
+00:02:28,005 --> 00:02:32,473
+Got a slide that says "adopted," but nobody runs the thing
+
+48
+00:02:32,473 --> 00:02:36,064
+Quarterly report says every milestone's in the green
+
+49
+00:02:36,064 --> 00:02:39,654
+Signed and stamped and forwarded to folks you've never seen
+
+50
+00:02:39,654 --> 00:02:43,245
+Program manager, office director, all the way to DC
+
+51
+00:02:43,245 --> 00:02:47,793
+A mile-long trail of success for a repo with two stars (and one of them is me)
+
+52
+00:02:47,793 --> 00:02:47,793
+(Deliverable met! Impact: transformational!)
+
+53
+00:02:47,793 --> 00:02:47,793
+(Last commit: twenty twenty-one, documentation: aspirational)
+
+54
+00:02:47,793 --> 00:02:47,793
+[Verse 4]
+
+55
+00:02:47,793 --> 00:02:47,793
+[Sung, sneering]
+
+56
+00:02:47,793 --> 00:02:54,894
+Founder wants a proposal, then a better one, then three
+
+57
+00:02:54,894 --> 00:02:58,324
+Every draft a new objection, "we'll get to equity"
+
+58
+00:02:58,324 --> 00:03:02,154
+Once the good ideas are on paper, all that talk just disappears
+
+59
+00:03:02,154 --> 00:03:06,543
+"Let's collaborate through the university!" (Same work. Zero pay. Cheers.)
+
+60
+00:03:06,543 --> 00:03:09,973
+Want my time? You email my supervisor, never me
+
+61
+00:03:09,973 --> 00:03:13,803
+Want your name on my paper for the data that was free
+
+62
+00:03:13,803 --> 00:03:13,803
+[Pre-Chorus]
+
+63
+00:03:13,803 --> 00:03:17,553
+Opportunity! Weekly meetings and it doesn't pay
+
+64
+00:03:17,553 --> 00:03:21,303
+Privilege! Thirty K, the rent's thirty-two, hooray
+
+65
+00:03:21,303 --> 00:03:21,303
+(Saving the planet, guarding turf, and calling bad work "rude")
+
+66
+00:03:21,303 --> 00:03:21,303
+[Chorus]
+
+67
+00:03:21,303 --> 00:03:29,202
+It's thirty years away (thirty years away)
+
+68
+00:03:29,202 --> 00:03:32,473
+Funding's in the mail, but could you do it for free?
+
+69
+00:03:32,473 --> 00:03:40,532
+It's thirty years away, and it's thirty years away
+
+70
+00:03:40,532 --> 00:03:40,532
+[Bridge]
+
+71
+00:03:40,532 --> 00:03:40,532
+[Half-time, moody]
+
+72
+00:03:40,532 --> 00:03:44,282
+In seventy-six they drew a chart, one line was labeled "never"
+
+73
+00:03:44,282 --> 00:03:47,793
+They funded us below that line, then asked what took forever
+
+74
+00:03:47,793 --> 00:03:51,383
+So I ran the integrated model and the model says it's fine
+
+75
+00:03:51,383 --> 00:03:55,372
+Research ops in thirty-four, dee-tee in thirty-nine
+
+76
+00:03:55,372 --> 00:03:58,883
+Six months to set it up, two years to get in print
+
+77
+00:03:58,883 --> 00:04:02,553
+Validated on a reactor that doesn't yet exist
+
+78
+00:04:02,553 --> 00:04:06,941
+It's a neural net surrogate trained on a code that's way too slow
+
+79
+00:04:06,941 --> 00:04:10,532
+A model of a model of a plasma we don't know
+
+80
+00:04:10,532 --> 00:04:12,048
+But the plots...
+
+81
+00:04:12,048 --> 00:04:12,048
+(look good to me)
+
+82
+00:04:12,048 --> 00:04:13,484
+The plots...
+
+83
+00:04:13,484 --> 00:04:13,484
+(look good to me)
+
+84
+00:04:13,484 --> 00:04:13,484
+[Breakdown]
+
+85
+00:04:13,484 --> 00:04:13,484
+[Spoken, drums only]
+
+86
+00:04:13,484 --> 00:04:21,463
+Reviewer one says: this paper is terrible if you don't cite my "very impactful" work. (No further comments.)
+
+87
+00:04:21,463 --> 00:04:24,415
+Reviewer two says: please address the neutrons.
+
+88
+00:04:24,415 --> 00:04:28,564
+Program office says: please put the framework on the highlights slide.
+
+89
+00:04:28,564 --> 00:04:31,835
+Reviewer three says: have you considered more magnet.
+
+90
+00:04:31,835 --> 00:04:36,622
+Startup keynote says: our novel framing. (That was my framing.)
+
+91
+00:04:36,622 --> 00:04:36,622
+[Bass creeps back in]
+
+92
+00:04:36,622 --> 00:04:41,090
+New proposal says: digital twin of the reactor. (There is no reactor.)
+
+93
+00:04:41,090 --> 00:04:45,559
+Read-me says: real-time digital twin. Runtime: three weeks.
+
+94
+00:04:45,559 --> 00:04:49,548
+Funding agency says: does it say digital twin? ...Funded.
+
+95
+00:04:49,548 --> 00:04:52,420
+Solar says: we shipped while you were in review.
+
+96
+00:04:52,420 --> 00:04:55,771
+Note to self: you built a framework too.
+
+97
+00:04:55,771 --> 00:04:57,846
+Approved. Ship the reactor.
+
+98
+00:04:57,846 --> 00:04:57,846
+[Final Chorus]
+
+99
+00:04:57,846 --> 00:04:57,846
+[Key change up, full gang vocals]
+
+100
+00:04:57,846 --> 00:05:01,596
+It's thirty years away (thirty years away)
+
+101
+00:05:01,596 --> 00:05:04,867
+My advisor said it, and his advisor said the same
+
+102
+00:05:04,867 --> 00:05:08,697
+We got net gain! (if you don't count the wall plug)
+
+103
+00:05:08,697 --> 00:05:12,048
+We got ignition! (for a billionth of a second)
+
+104
+00:05:12,048 --> 00:05:15,559
+The tokamak's a donut and the donut's always late
+
+105
+00:05:15,559 --> 00:05:20,106
+It's thirty years away, so hey, I guess we wait
+
+106
+00:05:20,106 --> 00:05:20,106
+[Outro]
+
+107
+00:05:20,106 --> 00:05:20,106
+[Drops to a single synth]
+
+108
+00:05:20,106 --> 00:05:23,777
+See you in thirty years.
+
+109
+00:05:23,777 --> 00:05:26,090
+...make it thirty-five.
+
+110
+00:05:26,090 --> 00:05:28,963
+...actually, don't wait up.
+
+111
+00:05:28,963 --> 00:05:32,473
+I'll be on a bench, building a robot.
+
+112
+00:05:32,473 --> 00:05:35,186
+It works, or it doesn't.
+
+113
+00:05:35,186 --> 00:05:36,144
+And I'll know by lunch.
+
+114
+00:05:36,144 --> 00:05:41,500
+[End]
+

@@ -1,0 +1,12 @@
+{
+ "source": "thirty-years-away_suno-take-b_raw.wav",
+ "donor": "thirty-years-away_suno-take-a_raw.wav",
+ "clip": [
+  327.55,
+  328.88
+ ],
+ "placed_at": 336.24,
+ "lunch_t0": 336.37,
+ "lunch_t1": 337.57,
+ "duration": 337.57
+}

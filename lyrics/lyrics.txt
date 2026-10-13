@@ -1,0 +1,129 @@
+[Intro]
+[Spoken, deadpan, over a single pulsing synth]
+Shot four-oh-one-one-seven.
+Plasma current ramping.
+Everybody look busy.
+
+[Verse 1]
+Back in fifty-eight they swore that it was nearly done
+Said we'd have it by the time their kids were twenty-one
+Now those kids have grandkids, still running the same plan
+With a plasma like a cat that will escape you if it can
+So I did the math on a whole career of mine
+Writing papers for a reactor I won't see come online
+
+[Pre-Chorus]
+Every decade there's a graph going up and to the right
+Every startup's got a deck that says we're turning on tonight
+(Series A, Series B, net electricity by twenty-three)
+
+[Chorus]
+It's thirty years away (thirty years away)
+Every time I check, it's thirty years away
+We got net gain! (if you don't count the wall plug)
+We got ignition! (for a billionth of a second)
+Funding's in the mail and en-ess-tee-ex-you broke again
+It's thirty years away, and it's thirty years away
+
+[Verse 2]
+Fourteen em-ee-vee neutrons, they don't care about your steel
+Fifty dee-pee-ay later, does your first wall still feel real
+The world's whole stash of tritium weighs about as much as my dog
+And it's half gone in twelve years while we're stuck in the backlog
+The divertor eats ten megawatts per square meter, give or take
+That's a rocket nozzle running every hour you're awake
+
+[Pre-Chorus]
+Disruption! Runaway electrons drilling through the tile
+ELM crash! Fifty times a second, take it with a smile
+(Breed it, shield it, cool it, heal it, then compete with pee-vee)
+
+[Chorus]
+It's thirty years away (thirty years away)
+Every time I check, it's thirty years away
+We got net gain! (if you don't count the wall plug)
+We got ignition! (for a billionth of a second)
+Funding's in the mail and the magnet just quenched
+It's thirty years away, and it's thirty years away
+
+[Verse 3]
+[Faster, half-rapped, tight drums]
+Got a grant to build a framework that would unify the codes
+Now there's fifteen of those frameworks and a sixteenth on the road
+It's got a logo, it's got a website, it's got a workshop every spring
+Got a slide that says "adopted," but nobody runs the thing
+Quarterly report says every milestone's in the green
+Signed and stamped and forwarded to folks you've never seen
+Program manager, office director, all the way to DC
+A mile-long trail of success for a repo with two stars (and one of them is me)
+(Deliverable met! Impact: transformational!)
+(Last commit: twenty twenty-one, documentation: aspirational)
+
+[Verse 4]
+[Sung, sneering]
+Founder wants a proposal, then a better one, then three
+Every draft a new objection, "we'll get to equity"
+Once the good ideas are on paper, all that talk just disappears
+"Let's collaborate through the university!" (Same work. Zero pay. Cheers.)
+Want my time? You email my supervisor, never me
+Want your name on my paper for the data that was free
+
+[Pre-Chorus]
+Opportunity! Weekly meetings and it doesn't pay
+Privilege! Thirty K, the rent's thirty-two, hooray
+(Saving the planet, guarding turf, and calling bad work "rude")
+
+[Chorus]
+It's thirty years away (thirty years away)
+Funding's in the mail, but could you do it for free?
+It's thirty years away, and it's thirty years away
+
+[Bridge]
+[Half-time, moody]
+In seventy-six they drew a chart, one line was labeled "never"
+They funded us below that line, then asked what took forever
+So I ran the integrated model and the model says it's fine
+Research ops in thirty-four, dee-tee in thirty-nine
+Six months to set it up, two years to get in print
+Validated on a reactor that doesn't yet exist
+It's a neural net surrogate trained on a code that's way too slow
+A model of a model of a plasma we don't know
+But the plots...
+(look good to me)
+The plots...
+(look good to me)
+
+[Breakdown]
+[Spoken, drums only]
+Reviewer one says: this paper is terrible if you don't cite my "very impactful" work. (No further comments.)
+Reviewer two says: please address the neutrons.
+Program office says: please put the framework on the highlights slide.
+Reviewer three says: have you considered more magnet.
+Startup keynote says: our novel framing. (That was my framing.)
+
+[Bass creeps back in]
+New proposal says: digital twin of the reactor. (There is no reactor.)
+Read-me says: real-time digital twin. Runtime: three weeks.
+Funding agency says: does it say digital twin? ...Funded.
+Solar says: we shipped while you were in review.
+Note to self: you built a framework too.
+Approved. Ship the reactor.
+
+[Final Chorus]
+[Key change up, full gang vocals]
+It's thirty years away (thirty years away)
+My advisor said it, and his advisor said the same
+We got net gain! (if you don't count the wall plug)
+We got ignition! (for a billionth of a second)
+The tokamak's a donut and the donut's always late
+It's thirty years away, so hey, I guess we wait
+
+[Outro]
+[Drops to a single synth]
+See you in thirty years.
+...make it thirty-five.
+...actually, don't wait up.
+I'll be on a bench, building a robot.
+It works, or it doesn't.
+And I'll know by lunch.
+[End]
